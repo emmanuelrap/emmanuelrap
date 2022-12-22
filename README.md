@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Zambrano
-- 👀 I’m interested in programming
-- 🌱 I’m currently Angular and Python
-- 📫 How to reach me FB
+- 👀 I’m interested in Programming/Web dev.
+- 🌱 I’m currently Angular/Python/React
+- 📫 How to reach me: emmanuelzzz123@gmail.com / caemzambranoco@ittepic.edu.mx
